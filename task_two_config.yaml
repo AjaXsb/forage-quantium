@@ -1,0 +1,10 @@
+# Configuration for Task Two: cleaning data script (task_two_clean_data.py)
+
+# The product name to filter sales records by.
+product_filter: "pink morsel"
+
+# The directory containing the raw CSV files.
+data_directory: "data"
+
+# Default currency symbol to use if no symbol is detected in the price data.
+default_currency_symbol: "$"
